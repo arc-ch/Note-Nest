@@ -15,9 +15,9 @@ Each note comes with a delete button (×) that allows users to remove notes they
 To make the interface more visually appealing, each note is displayed with a random background color. This feature adds variety and makes the notes stand out.
 
 ## Technologies Used
-HTML: Provides the basic structure of the application.
-CSS: Used for styling the application and making it visually appealing.
-JavaScript: Handles the functionality of adding and deleting notes, as well as assigning random background colors to each note.
+1.  HTML: Provides the basic structure of the application.
+2. CSS: Used for styling the application and making it visually appealing.
+3. JavaScript: Handles the functionality of adding and deleting notes, as well as assigning random background colors to each note.
 
 ## License
 This project is licensed under the MIT License.
